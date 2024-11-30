@@ -1,6 +1,6 @@
 import pywhatkit as kit
 
-phone = '+918260701843'
+phone = '+911234567890'
 message = 'Hello! This is a test message sent using Python.'
 hour = 1
 minute = 4
