@@ -80,7 +80,7 @@ The app will be accessible at **http://localhost:8501**
 - Schedule Message: Choose to send the message immediately or at a scheduled time.
 - Send: Click "Send Message" to execute the task.
 
-### Video & Document Sending:
+### Known Issues in Video & Document Sending:
 - **Issue**: There are known issues with sending video files and documents through `pywhatkit`. These file types may not be sent successfully, and you may encounter errors or failures when attempting to send them.
 - **Status**: This issue is being actively investigated. Future versions of the project may include fixes or alternative methods for handling media files. I recommend using image files until the issue is resolved.
 
